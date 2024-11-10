@@ -4,8 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/FoodOrderingSystem/FoodOrderingSystem.iml" filepath="$PROJECT_DIR$/FoodOrderingSystem/FoodOrderingSystem.iml" />
       <module fileurl="file://$PROJECT_DIR$/Item Listener/Item Listener.iml" filepath="$PROJECT_DIR$/Item Listener/Item Listener.iml" />
-      <module fileurl="file://$PROJECT_DIR$/LA6 GUI.iml" filepath="$PROJECT_DIR$/LA6 GUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LA6_lugatiman.iml" filepath="$PROJECT_DIR$/LA6_lugatiman.iml" />
       <module fileurl="file://$PROJECT_DIR$/Leap Year Checker/Leap Year Checker.iml" filepath="$PROJECT_DIR$/Leap Year Checker/Leap Year Checker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Most Frequent Char/Most Frequent Char.iml" filepath="$PROJECT_DIR$/Most Frequent Char/Most Frequent Char.iml" />
       <module fileurl="file://$PROJECT_DIR$/Simple Calculator/Simple Calculator.iml" filepath="$PROJECT_DIR$/Simple Calculator/Simple Calculator.iml" />
     </modules>
   </component>
